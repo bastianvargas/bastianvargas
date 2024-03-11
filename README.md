@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/bastian_lc"><img src="https://api.daily.dev/devcards/v2/6y1V38VRZLc7L6bDaXWvK.png?type=default&r=jh5" width="356" alt="Bastian's Dev Card"/></a>
+<a href="https://app.daily.dev/bastian_lc"><img src="https://api.daily.dev/devcards/v2/6y1V38VRZLc7L6bDaXWvK.png?type=default&r=n8r" width="356" alt="Bastian's Dev Card"/></a>
 
 <!--
 **bastianvargas/bastianvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
