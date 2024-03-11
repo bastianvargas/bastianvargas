@@ -1,4 +1,5 @@
 <a href="https://app.daily.dev/bastian_lc"><img src="https://api.daily.dev/devcards/v2/6y1V38VRZLc7L6bDaXWvK.png?type=default&r=n8r" width="356" alt="Bastian's Dev Card"/></a>
+[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cn0eus50cvus73d7nolg&custom_title=Bastian%20%40%20hcmfront&custom_subtitle=Developer&show_icons=true&disable_animations=false&title_color=41b883&text_color=fffefe&icon_color=41b883&ring_color=fffefe&bg_color=273849&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F65420325%3Fv%3D4)](https://pullpo.io/products/devcard)
 
 <!--
 **bastianvargas/bastianvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
